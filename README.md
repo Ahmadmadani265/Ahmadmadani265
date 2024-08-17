@@ -11,6 +11,9 @@
 - 💬 Ask me about Problem Solving ...
 - 📫 How to reach me: madaniahmad996@gmail.com
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
+
+</h2> <img src="al.gif" width="1100px" height="20px">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmad-madani-67984a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-madani-67984a2" height="30" width="40" /></a>
