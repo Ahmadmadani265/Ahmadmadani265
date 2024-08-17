@@ -13,9 +13,9 @@
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-madani-67984a2ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-madani-67984a2ba/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmadmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmadmadani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ahmad-madani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahmad-madani/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad-madani-67984a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-madani-67984a2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmadmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmadmadani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmad-madani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad-madani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
