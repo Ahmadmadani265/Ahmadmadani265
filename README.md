@@ -2,7 +2,7 @@
 
 <h1 align="center">Computer Engineering Student</h1>
 <!-- images...<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> --> 
-![ProfileView](https://komarev.com/ghpvc/?username=Ahmadmadani265&label=Profile%20views&color=blueviolet)
+<!-- ![ProfileView](https://komarev.com/ghpvc/?username=Ahmadmadani265&label=Profile%20views&color=blueviolet) -->
 
 
 - 🔭 I’m currently a **CSE student at PTUK**
