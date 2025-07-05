@@ -1,88 +1,61 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Ahmad%20Madani!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
 
 <h1 align="center">Computer Engineering Student</h1>
-<!-- images...<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> --> 
-<!-- ![ProfileView](https://komarev.com/ghpvc/?username=Ahmadmadani265&label=Profile%20views&color=blueviolet) -->
 
 
-- 🔭 I’m currently a **CSE student at PTUK**
-- 👩‍💻 I’m  a Programming Problem Solver 
-- 💬 Ask me about Problem Solving ...
-- 📫 How to reach me: madaniahmad996@gmail.com
-- ⚡ Fun fact: "Hello, World!" originated in 1967.
+![Profile views](https://komarev.com/ghpvc/?username=Ahmadmadani265&color=blueviolet)
+### 👋 About Me
 
-</h2> <img src="al.gif" width="1100px" height="20px">
+- 👨‍🎓 I'm **Ahmad Madani**, a Computer Systems Engineering student at **PTUK** 🇵🇸
+- 📱 Flutter & Firebase developer
+- 💻 Passionate about clean code, real-world apps, and solving problems with tech
+- 🌍 Based in **Palestine**
+- ✉️ Contact me at: [madaniahmad996@gmail.com](mailto:madaniahmad996@gmail.com)
+- 🧠 Currently learning: **Mobile Development**, especially Flutter & APIs
+- 🤝 Open to collaborating on interesting and meaningful mobile projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadmadani265" alt="Ahmadmadani265" /></a> </p>
+---
 
-</h2> <img src="al.gif" width="1100px" height="20px">
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills
 <p align="left">
-<a href="https://linkedin.com/in/ahmad-madani-67984a2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-madani-67984a2ba" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadmadani.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsahmad.10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmadmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmadmadani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmad-madani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad-madani" height="30" width="40" /></a>
+
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/> </a>
 </p>
 
-</h2> <img src="al.gif" width="1100px" height="20px">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-</p>
-
-
-
-</h2> <img src="al.gif" width="1100px" height="20px">
-
-<!-- <h3>Problem Solving 📈</h3>
-<div align="center">
-  <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=Ahmadmadani&force_username=true&theme=nord&border_color=#000" />
-    &ensp;
- <img height="200" src="https://leetcode.card.workers.dev/u/Ahmad-Madani?theme=nord&font=baloo&extension=activity&border_color=%23000" />
-
-
-</div> -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmadani265&show_icons=true&locale=en&layout=compact" alt="ahmadmadani265" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadmadani265&show_icons=true&locale=en" alt="ahmadmadani265" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmadani265&" alt="ahmadmadani265" /></p>
-
-
-
-<br>
-<a href="https://komarev.com/ghpvc/?username=ahmadmadani265&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ahmadmadani265&style=for-the-badge">
+---
+### 🌐 Socials
+<p align="left">
+  <a href="https://www.facebook.com/ahmad.madani.92351" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+  <a href="https://www.github.com/Ahmadmadani265" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="http://www.instagram.com/ahmad.madani11" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-madani" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+ <a href="https://leetcode.com/u/Ahmad-Madani/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
 </a>
+
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="155.7" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadmadani265&layout=compact&theme=radical&hide_border=true" />
+  &ensp;
+  <img width="545" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadmadani265&theme=radical&hide_border=true" />
+  <br />
+  <img height="171" src="https://github-readme-stats.vercel.app/api?username=Ahmadmadani265&theme=radical&hide_border=true" />
+  &ensp;
+  <img height="171" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadmadani265&theme=radical&hide_border=true" />
+</div>
+
+---
+![](https://github-profile-trophy.vercel.app/?username=Ahmadmadani265&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
