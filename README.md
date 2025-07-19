@@ -13,8 +13,7 @@
 - ✉️ Contact me at: [madaniahmad996@gmail.com](mailto:madaniahmad996@gmail.com)
 - 🧠 Currently learning: **Mobile Development**, especially Flutter & APIs
 - 🤝 Open to collaborating on interesting and meaningful mobile projects
-
----
+</h2> <img src="al.gif" width="1100px" height="20px">
 
 ### 🛠️ Skills
 <p align="left">
@@ -30,7 +29,8 @@
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/> </a>
 </p>
 
----
+</h2> <img src="al.gif" width="1100px" height="20px">
+
 ### 🌐 Socials
 <p align="left">
   <a href="https://www.facebook.com/ahmad.madani.92351" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
@@ -43,7 +43,7 @@
 
 </p>
 
----
+</h2> <img src="al.gif" width="1100px" height="20px">
 
 ### 📊 GitHub Stats
 <div align="center">
