@@ -33,10 +33,10 @@
 
 ### 🌐 Socials
 <p align="left">
-  <a href="https://www.facebook.com/ahmad.madani.92351" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/AhmadMadani.11" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
   <a href="https://www.github.com/Ahmadmadani265" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="http://www.instagram.com/ahmad.madani11" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/ahmad-madani" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="http://www.instagram.com/AhmadMadani.11" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-madani/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
  <a href="https://leetcode.com/u/Ahmad-Madani/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
 </a>
 
